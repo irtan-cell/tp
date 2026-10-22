@@ -1,0 +1,8 @@
+name,phone,email,status,memberType,role,instruments,groups
+"Alex Yeoh","87438807","alexyeoh@example.com","member","student","President","Piano:4;Violin:8","Orchestra;Training"
+"Bernice Yu","99272758","berniceyu@example.com","member","student","Cello Section Leader","Cello:6","Chamber Orchestra"
+"Charlotte Oliveiro","93210283","charlotte@example.com","member","teacher","Conductor","Piano:15;Violin:12","Orchestra"
+"David Li","91031282","lidavid@example.com","active-alumnus","student","","Bass Guitar:5;Guitar:7","Alumni Ensemble"
+"Ethan Tan","98765432","ethan@example.com","member","student","","Guitar:2","Brass Band;Training"
+"Irfan Ibrahim","92492021","irfan@example.com","inactive-alumnus","teacher","Former Music Director","",""
+"Roy Balakrishnan","92624417","royb@example.com","member","student","","Drums:7",""
